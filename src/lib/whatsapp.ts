@@ -26,7 +26,7 @@ export function paymentLabel(payment: PaymentPlan) {
 
 export function buildQuoteMessage({ service, payment }: QuotePayload) {
   return [
-    "Merhaba Sourneo,",
+    "Merhaba,",
     "",
     `Hizmet: ${service}`,
     `Ödeme: ${paymentLabel(payment)}`,
