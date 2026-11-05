@@ -22,42 +22,6 @@ export const SERVICES = [
     icon: "globe",
   },
   {
-    id: "qr",
-    title: "QR Menü",
-    description: "Restoran ve kafeler için dijital QR menü çözümleri.",
-    icon: "qr",
-  },
-  {
-    id: "cv",
-    title: "CV Hazırlama",
-    description: "ATS uyumlu profesyonel özgeçmiş hazırlama hizmeti.",
-    icon: "cv",
-  },
-  {
-    id: "logo",
-    title: "Logo Tasarımı",
-    description: "Minimal ve modern logo tasarımları.",
-    icon: "logo",
-  },
-  {
-    id: "card",
-    title: "Kartvizit Tasarımı",
-    description: "Baskıya hazır profesyonel kartvizit tasarımları.",
-    icon: "card",
-  },
-  {
-    id: "social",
-    title: "Sosyal Medya Tasarımları",
-    description: "Instagram gönderileri, hikâyeler ve reklam tasarımları.",
-    icon: "social",
-  },
-  {
-    id: "content",
-    title: "İçerik Hazırlama",
-    description: "Tanıtım yazıları, ürün açıklamaları ve metin düzenleme.",
-    icon: "content",
-  },
-  {
     id: "support",
     title: "Dijital Destek",
     description:
