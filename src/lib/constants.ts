@@ -22,12 +22,24 @@ export const SERVICES = [
     icon: "globe",
   },
   {
+    id: "social",
+    title: "Sosyal Medya Tasarımları",
+    description: "Instagram gönderileri, hikâyeler ve reklam tasarımları.",
+    icon: "social",
+  },
+  {
+    id: "content",
+    title: "İçerik Hazırlama",
+    description: "Tanıtım yazıları, ürün açıklamaları ve metin düzenleme.",
+    icon: "content",
+  },
+  {
     id: "support",
     title: "Dijital Destek",
     description:
       "Domain, hosting, kurumsal e-posta ve web sitesi güncellemeleri.",
     icon: "support",
-  }
+  },
 ] as const;
 
 export const REASONS = [
