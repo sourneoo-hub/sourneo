@@ -27,7 +27,7 @@ export const SERVICES = [
     description:
       "Domain, hosting, kurumsal e-posta ve web sitesi güncellemeleri.",
     icon: "support",
-  },
+  }
 ] as const;
 
 export const REASONS = [
