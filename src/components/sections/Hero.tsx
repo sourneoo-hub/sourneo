@@ -34,7 +34,7 @@ export default function Hero() {
 
             <FadeIn delay={0.08}>
               <p className="mx-auto mt-5 max-w-md text-[15px] leading-relaxed text-ink-secondary sm:text-lg lg:mx-0">
-                Kurumsal web sitesi, QR menü, logo ve dijital destek ile markanızı
+                Kurumsal web sitesi ve dijital destek ile markanızı
                 daha görünür hale getiriyoruz. Size uygun aylık veya yıllık
                 planla teklif alın.
               </p>
