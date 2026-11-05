@@ -21,6 +21,30 @@ export const SERVICES = [
     description: "Modern, hızlı ve mobil uyumlu kurumsal web siteleri.",
     icon: "globe",
   },
+ {
+    id: "qr",
+    title: "QR Menü",
+    description: "Restoran ve kafeler için dijital QR menü çözümleri.",
+    icon: "qr",
+  },
+  {
+    id: "cv",
+    title: "CV Hazırlama",
+    description: "ATS uyumlu profesyonel özgeçmiş hazırlama hizmeti.",
+    icon: "cv",
+  },
+  {
+    id: "logo",
+    title: "Logo Tasarımı",
+    description: "Minimal ve modern logo tasarımları.",
+    icon: "logo",
+  },
+  {
+    id: "card",
+    title: "Kartvizit Tasarımı",
+    description: "Baskıya hazır profesyonel kartvizit tasarımları.",
+    icon: "card",
+  },
   {
     id: "social",
     title: "Sosyal Medya Tasarımları",
